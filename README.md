@@ -12,3 +12,7 @@ Essentially a task distribtion app that allows people to split tasks between eac
 - All tasks are viewable on a shared list - called a home space
 - Each user can see what tasks each other member in the home space has been assigned
 - Customisable colour scheme
+- Avatar as a unique player system
+- Add point system and shop to spend credits on
+* Gain points by completing tasks
+* Shop includes accessories for your avatar
