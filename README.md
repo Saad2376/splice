@@ -11,3 +11,4 @@ Essentially a task distribtion app that allows people to split tasks between eac
 - Home screen widgets to see different tasks that are due
 - All tasks are viewable on a shared list - called a home space
 - Each user can see what tasks each other member in the home space has been assigned
+- Customisable colour scheme
