@@ -14,5 +14,5 @@ Essentially a task distribtion app that allows people to split tasks between eac
 - Customisable colour scheme
 - Avatar as a unique player system
 - Add point system and shop to spend credits on
-* Gain points by completing tasks
-* Shop includes accessories for your avatar
++ Gain points by completing tasks
++ Shop includes accessories for your avatar
